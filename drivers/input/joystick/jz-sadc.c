@@ -25,7 +25,7 @@
 
 #include <linux/jz4770-adc.h>
 #define RIGHT_REMOTE_SENSING_NOT_WORK//右遥感失效
-#define LEFT_REMOTE_SENSING_NOT_WORK//左遥感失效
+//#define LEFT_REMOTE_SENSING_NOT_WORK//左遥感失效
 
 #define JZ_REG_ADC_TS_SAME	0
 #define JZ_REG_ADC_TS_WAIT	4
